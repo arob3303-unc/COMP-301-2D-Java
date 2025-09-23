@@ -25,5 +25,7 @@ In this game, players navigate a dungeon to **collect gold while avoiding enemie
 ---
 
 ## 🖼️ Screenshots  
-*(Add your own screenshots here once you upload them — e.g., title screen, gameplay, and enemy encounters)*  
+<img width="671" height="536" alt="image" src="https://github.com/user-attachments/assets/3c6ef4e2-b3fd-4b89-a8c6-f74981753b94" />
+<img width="371" height="514" alt="image" src="https://github.com/user-attachments/assets/9b19d442-7695-4420-86c3-c5f1229d1b9c" />
+
 
